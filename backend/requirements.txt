@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+numpy
+pretty_midi
+mido
